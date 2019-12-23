@@ -3,6 +3,7 @@
 
 ## Unreleased
 
+* Remove Python 2 support
 * Improve Windows support with explict file encodings ([#19][])
 
 ## [1.0.1][]
