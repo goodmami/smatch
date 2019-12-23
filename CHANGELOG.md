@@ -5,6 +5,7 @@
 
 * Remove Python 2 support
 * Improve Windows support with explict file encodings ([#19][])
+* Use logging for debug and error messages ([#7][])
 
 ## [1.0.1][]
 
@@ -148,5 +149,6 @@ The following are taken from an old `update_log` file:
 
 
 [#5]: https://github.com/snowblink14/smatch/issues/5
+[#7]: https://github.com/snowblink14/smatch/issues/7
 [#14]: https://github.com/snowblink14/smatch/issues/14
 [#19]: https://github.com/snowblink14/smatch/issues/19
